@@ -1,3 +1,30 @@
-.bg-coral {
-    background-color: coral;
+.bg-pale {
+    background-color: #98C1D9;
+}
+
+.body {
+    color: #293241;
+    background-color: #E0FBFC;
+}
+
+.btn-outline-success {
+    color: #292929;
+    border-color: #292929;
+}
+
+.content-container {
+    height: 500px;
+    width: 800px;
+    margin: auto;
+}
+
+footer {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    font-style: italic;
+}
+
+a:hover {
+    color: #E0FBFC !important;
 }
